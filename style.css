@@ -1,0 +1,5 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+    font-weight: normal;
+    font-family: 'Hanken Grotesk', 'Roboto', sans-serif;
+}
