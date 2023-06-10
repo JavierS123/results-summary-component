@@ -1,5 +1,12 @@
+:root{
+    --light-red: hsl(0, 100%, 67%);
+    --orangey-yellow: hsl(39, 100%, 56%);
+    
+}
+
 *, *::before, *::after{
     box-sizing: border-box;
     font-weight: normal;
     font-family: 'Hanken Grotesk', 'Roboto', sans-serif;
 }
+
